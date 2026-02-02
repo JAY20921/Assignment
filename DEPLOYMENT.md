@@ -517,8 +517,18 @@ app.get('/health', (req, res) => {
 **Remember:** After deployment, update the repository README with your live URLs!
 
 ```markdown
-## Live Demo
-- **Frontend**: https://your-frontend-url.com
-- **Backend API**: https://your-backend-url.com/api
+## 🌐 Live Demo
+- **Frontend**: https://frontend-mu-five-50.vercel.app
+- **Backend API**: https://assignment-production-5105.up.railway.app/api
 - **API Documentation**: See API_DOCUMENTATION.md
+
+✅ **Successfully Deployed!**
+- Backend: Railway (MongoDB Atlas)
+- Frontend: Vercel
+- Repository: https://github.com/JAY20921/Assignment
 ```
+
+---
+
+**Deployed by: Jay**  
+**Date: February 3, 2026**

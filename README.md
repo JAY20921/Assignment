@@ -7,6 +7,14 @@
 > **Full Stack Development Internship - Global Trend**  
 > A production-ready task management application with complete CRUD operations and JWT authentication.
 
+## 🌐 Live Demo
+
+- **Frontend**: https://frontend-mu-five-50.vercel.app
+- **Backend API**: https://assignment-production-5105.up.railway.app/api
+- **GitHub Repository**: https://github.com/JAY20921/Assignment
+
+**Try it now!** Register an account and start managing your tasks.
+
 ## 📋 Assignment Completion Checklist
 
 ### ✅ Functional Requirements
@@ -402,7 +410,7 @@ git add .
 git commit -m "Initial commit: Task Management App"
 
 # Push to GitHub
-git remote add origin https://github.com/yourusername/task-management-app.git
+git remote add origin https://github.com/JAY20921/Assignment.git
 git branch -M main
 git push -u origin main
 ```
@@ -453,14 +461,15 @@ This project demonstrates proficiency in:
 - ✅ GitHub repository ready
 
 **Deployed Application Links:**
-- GitHub Repository: `https://github.com/yourusername/task-management-app`
-- Live Demo (Optional): `Your deployment URL`
-- API Documentation: See above
+- GitHub Repository: https://github.com/JAY20921/Assignment
+- Live Demo: https://frontend-mu-five-50.vercel.app
+- Backend API: https://assignment-production-5105.up.railway.app/api
+- API Documentation: See API_DOCUMENTATION.md
 
 ---
 
 **Built with 💙 for Global Trend Full Stack Development Internship**
 
-*Submitted by: [Your Name]*  
+*Submitted by: Jay*  
 *Date: February 3, 2026*  
-*Contact: [Your Email]*
+*GitHub: [@JAY20921](https://github.com/JAY20921)*

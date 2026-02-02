@@ -1,5 +1,14 @@
 # 🚀 Quick Start Guide
 
+## 🌐 **Live Demo - Try It Now!**
+
+**No installation needed! Visit the live app:**
+- **Frontend**: https://frontend-mu-five-50.vercel.app
+- **Backend API**: https://assignment-production-5105.up.railway.app/api
+- **GitHub**: https://github.com/JAY20921/Assignment
+
+---
+
 ## ⚡ Get Started in 5 Minutes
 
 ### Step 1: Install Dependencies (2 minutes)
