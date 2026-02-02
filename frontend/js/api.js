@@ -6,7 +6,7 @@
 // API Base URL - automatically switches between dev and production
 const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
   ? 'http://localhost:5000/api'
-  : 'https://your-backend-url.com/api'; // Change this to your production backend URL
+  : 'https://assignment-production-5105.up.railway.app/api';
 
 // Get auth token from localStorage
 const getToken = () => {
