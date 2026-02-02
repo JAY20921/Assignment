@@ -1,0 +1,7 @@
+{
+  "name": "task-management-app",
+  "version": "1.0.0",
+  "scripts": {
+    "vercel-build": "echo 'No build required for static site'"
+  }
+}
