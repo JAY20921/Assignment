@@ -1,0 +1,15 @@
+{
+  "name": "task-management-app",
+  "version": "1.0.0",
+  "description": "Task Management Application - Full Stack",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "install-backend": "cd backend && npm install",
+    "install-frontend": "cd frontend && npm install",
+    "test": "cd backend && npm test"
+  },
+  "keywords": ["task-management", "fullstack", "nodejs", "mongodb"],
+  "author": "",
+  "license": "MIT"
+}
